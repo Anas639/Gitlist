@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gitlist</string>
+    <string name="unknown_error">An error has occurred !</string>
+    <string name="malformed_url_error">Couldn\'t reach the server :(</string>
+    <string name="data_read_error">Couldn\'t read the data :(</string>
+</resources>
